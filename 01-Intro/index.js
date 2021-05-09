@@ -1,4 +1,8 @@
 /*
+  ~ Often times, the inability to debug a certain error stems from not understanding some foundational concept!!!
+*/
+
+/*
   @ React pre-requisites
     $ It's assumed that, we are familiar with
       - HTML, CSS, JS, ES6 (concepts like functions, objects, arrays and to lesser extent, classes)
